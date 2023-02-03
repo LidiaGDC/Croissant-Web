@@ -1,11 +1,17 @@
 body {
   margin: 0px 95px;
+  background-color: #e5ccb8;
 }
 
 h1,
 h3 {
+  color: #555b59;
   text-align: center;
   margin-top: 25px;
+}
+
+a {
+  color: #555b59;
 }
 
 img {
@@ -13,6 +19,7 @@ img {
   max-width: 700px;
   margin: auto;
   padding: 20px;
+  border-radius: 50px;
 }
 .contact-info {
   text-align: center;
